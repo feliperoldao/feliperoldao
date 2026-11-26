@@ -70,10 +70,10 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 ### ⭐ Projetos de destaque
 
 - **PTC 2.0 (Rumo):** arquitetura de integração Event-Driven entre sistemas PTC e plataformas legadas.
+- **Rumo (OCI):** clusters Kubernetes (OKE) e IaC com Terraform em ambientes multi-cloud AWS e OCI.
 - **WMS USA:** integração Oracle EBS × MuleSoft × WMS Alcis.
 - **SAP × MuleSoft × ServiceNow:** integrações corporativas.
-- **Alpargatas:** integração Salesforce × MuleSoft × Linx Commerce.
-- **Rumo (OCI):** clusters Kubernetes (OKE) e IaC com Terraform em ambientes multi-cloud AWS e OCI.
+- **Alpargatas:** integração Salesforce × MuleSoft × Linx Commerce
 
 ## 🎓 Formação e certificações
 
