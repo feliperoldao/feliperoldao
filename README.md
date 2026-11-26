@@ -12,7 +12,7 @@
 
 Atuo na concepção, arquitetura, desenvolvimento e evolução de soluções distribuídas, conectando sistemas corporativos por meio de **APIs, microsserviços, integrações assíncronas e arquiteturas orientadas a eventos**.
 
-Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevOps** e **SRE**. Participei de projetos de modernização tecnológica e transformação digital nos segmentos de aviação, ferrovia, telecomunicações, mineração e serviços financeiros.
+Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevOps** e **SRE**. Ao longo da minha carreira, participei de projetos de modernização tecnológica, transformação digital e integração de ambientes corporativos complexos, atuando em segmentos como aviação, ferrovia, telecomunicações, mineração e serviços financeiros.
 
 ## 💼 Atualmente
 
