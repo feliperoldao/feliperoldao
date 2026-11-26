@@ -49,6 +49,8 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-Site%20Reliability%20Engineering-0078D4?style=flat-square)
+![SRE Foundation](https://img.shields.io/badge/DevOps%20Institute-SRE%20Foundation-0052CC?style=flat-square)
 
 ## 📈 Trajetória
 
