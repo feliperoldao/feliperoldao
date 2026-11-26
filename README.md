@@ -30,7 +30,7 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 | **Integração e APIs** | MuleSoft Anypoint Platform, Oracle SOA Suite, OSB, ODI, REST, OAuth2, JWT |
 | **Backend e Microsserviços** | Java, Spring Boot, Java EE, Python |
 | **Event-Driven** | Apache Kafka, OCI Streaming, AWS SQS, RabbitMQ |
-| **Cloud** | AWS (Lambda, SQS), OCI (OKE, Functions) |
+| **Cloud** | AWS (Lambda, SQS, EKS, ECS, EventBridge, StepFunctions), OCI (OKE, Functions, Streaming) |
 | **DevOps e IaC** | Terraform, Jenkins, GitOps, Docker, Kubernetes, Bitbucket |
 | **SRE e Observabilidade** | Dynatrace, Grafana, Prometheus, Kibana |
 
@@ -65,7 +65,7 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 | 2011 – 2016 | Grupo Mult | Consultor Java EE / SOA |
 | 2010 – 2011 | Prodemge | Analista desenvolvedor |
 | 2009 – 2010 | CPM Braxis Capgemini | Desenvolvedor Java |
-| 2007 | Distribuidora Aladim Ltda | Trainee (suporte técnico e infraestrutura de TI) |
+| 2007 - 2008 | Distribuidora Aladim Ltda | Trainee (suporte técnico e infraestrutura de TI) |
 
 ### ⭐ Projetos de destaque
 
