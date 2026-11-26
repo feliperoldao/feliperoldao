@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Roldão 👋
 
-**Especialista em Engenharia de Software** | Solution & Integration Architecture | APIs & Microservices | Cloud Engineering | DevOps | SRE
+**Especialista em Engenharia de Software** | Solution & Integration Architecture | APIs & Microservices | Cloud Engineering | DevOps | SRE | AWS | OCI | Kubernetes | Terraform
 
 📍 São Paulo, Brasil · 💼 Mais de 18 anos de experiência em TI (desde 2007)
 
