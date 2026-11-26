@@ -80,11 +80,12 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 - **Pós-graduação em DevOps e Arquitetura Cloud**, FIAP (2025 – 2026)
 - **The Cloud Bootcamp:** MultiCloud Training, AWS | Azure | GCP | Oracle (2021 – 2022)
 - **Bacharelado em Sistemas de Informação**, Rede de Ensino Doctum (2005 – 2008)
+- Site Reliability Engineering (SRE) Foundation v1.1
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: Azure Fundamentals
 - Bootcamp Amazon Web Services
-- Git e GitHub: controle e compartilhe seu código
 - Kafka: introdução a streams em microsserviços
 - Docker: ferramenta essencial para desenvolvedores
-- Linux I: conhecendo e utilizando o terminal
 
 ## 🌎 Idiomas
 
