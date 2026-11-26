@@ -65,6 +65,7 @@ Minha trajetória se apoia em três pilares: **Integration Engineering**, **DevO
 | 2011 – 2016 | Grupo Mult | Consultor Java EE / SOA |
 | 2010 – 2011 | Prodemge | Analista desenvolvedor |
 | 2009 – 2010 | CPM Braxis Capgemini | Desenvolvedor Java |
+| 2007 | Distribuidora Aladim Ltda | Trainee (suporte técnico e infraestrutura de TI) |
 
 ### ⭐ Projetos de destaque
 
